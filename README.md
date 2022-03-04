@@ -1,6 +1,8 @@
 # Buy bus tickets
 This page will search for available bus tickets.
 
+[buy-tickets.png]
+
 ## The app
 This app will be SPA
 ### HTML
